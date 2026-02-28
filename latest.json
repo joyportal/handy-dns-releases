@@ -1,13 +1,13 @@
 {
-  "version": "v0.0.36",
-  "releaseUrl": "https://github.com/joyportal/handy-dns-releases/releases/tag/v0.0.36",
-  "publishedAt": "2026-02-28T02:46:32Z",
+  "version": "v0.0.37",
+  "releaseUrl": "https://github.com/joyportal/handy-dns-releases/releases/tag/v0.0.37",
+  "publishedAt": "2026-02-28T02:47:02Z",
   "downloads": {
-    "linux/amd64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.36/handy-dns-v0.0.36-linux-amd64",
-    "linux/arm64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.36/handy-dns-v0.0.36-linux-arm64",
-    "darwin/amd64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.36/handy-dns-v0.0.36-darwin-amd64",
-    "darwin/arm64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.36/handy-dns-v0.0.36-darwin-arm64",
-    "windows/amd64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.36/handy-dns-v0.0.36-windows-amd64.exe",
-    "windows/arm64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.36/handy-dns-v0.0.36-windows-arm64.exe"
+    "linux/amd64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.37/handy-dns-v0.0.37-linux-amd64",
+    "linux/arm64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.37/handy-dns-v0.0.37-linux-arm64",
+    "darwin/amd64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.37/handy-dns-v0.0.37-darwin-amd64",
+    "darwin/arm64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.37/handy-dns-v0.0.37-darwin-arm64",
+    "windows/amd64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.37/handy-dns-v0.0.37-windows-amd64.exe",
+    "windows/arm64": "https://github.com/joyportal/handy-dns-releases/releases/download/v0.0.37/handy-dns-v0.0.37-windows-arm64.exe"
   }
 }
